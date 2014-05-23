@@ -1,0 +1,8 @@
+{
+  "name": "pvdIcon",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-coffee": "latest",
+    "grunt-contrib-watch": "latest"
+  }
+}
