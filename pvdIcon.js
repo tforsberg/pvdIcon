@@ -5,9 +5,7 @@
       return {
         restrict: 'A',
         link: function(scope, element, attrs) {
-          var type;
-          type = attrs.pvdIcon;
-          return element.addClass("glyphicon glyphicon-" + type);
+          return element.addClass("glyphicon glyphicon-" + attrs.pvdIcon);
         }
       };
     }
