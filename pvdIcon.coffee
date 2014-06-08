@@ -10,5 +10,5 @@ angular
 
     link: (scope, element, attrs) ->
       element
-        .addClass("glyphicon glyphicon-#{attrs.pvdIcon}")
+        .addClass("glyphicon-#{attrs.pvdIcon}")
   ])
