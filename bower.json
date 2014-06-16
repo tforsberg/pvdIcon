@@ -1,13 +1,13 @@
 {
   "name": "pvdIcon",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "dependencies": {
     "angular": "1.2.*",
     "pvdDirectives": "latest"
   },
   "ignore": [
     "*.json",
-    "*.js",
+    "gulpfile.js",
     "node_modules/",
     "src/",
     ".*"
