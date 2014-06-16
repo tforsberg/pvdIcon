@@ -11,5 +11,5 @@ Implementation:
 ```
 Output:
 ```html
-<span class="glyphicon glyphicon-user"></span>
+<span class="glyphicon-user"></span>
 ```

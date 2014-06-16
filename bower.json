@@ -1,6 +1,6 @@
 {
   "name": "pvdIcon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "pvdIcon.js",
   "dependencies": {
     "angular": "1.2.*",
