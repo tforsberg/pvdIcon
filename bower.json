@@ -1,7 +1,6 @@
 {
   "name": "pvdIcon",
   "version": "1.0.1",
-  "main": "pvdIcon.js",
   "dependencies": {
     "angular": "1.2.*",
     "pvdDirectives": "latest"
@@ -9,7 +8,7 @@
   "ignore": [
     "*.json",
     "*.js",
-    "node_modules/"
+    "node_modules/",
     "src/",
     ".*"
   ]
