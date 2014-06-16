@@ -1,15 +1,16 @@
 {
   "name": "pvdIcon",
-  "version": "0.0.6",
+  "version": "1.0.0",
   "main": "pvdIcon.js",
   "dependencies": {
     "angular": "1.2.*",
     "pvdDirectives": "latest"
   },
   "ignore": [
-    "*.coffee",
     "*.json",
-    "node_modules/",
+    "*.js",
+    "node_modules/"
+    "src/",
     ".*"
   ]
 }

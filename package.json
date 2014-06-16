@@ -1,8 +1,13 @@
 {
-  "name": "pvdIcon",
   "devDependencies": {
-    "grunt": "latest",
-    "grunt-contrib-coffee": "latest",
-    "grunt-contrib-watch": "latest"
+    "gulp": "^3.8.0",
+    "gulp-ngmin": "^0.3.0",
+    "gulp-coffee": "^2.0.1",
+    "gulp-sass": "^0.7.2",
+    "gulp-watch": "^0.6.5",
+    "gulp-load-plugins": "^0.5.1",
+    "gulp-rename": "^1.2.0",
+    "gulp-minify-css": "^0.3.4",
+    "gulp-uglify": "^0.3.0"
   }
 }
