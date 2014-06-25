@@ -62,13 +62,13 @@ a[class*="glyphicon-"] {
   content: "\E002"; }
 
 .glyphicon-dog:before {
-  content: "\1F415"; }
+  content: "\E003"; }
 
 .glyphicon-user:before {
   content: "\E004"; }
 
 .glyphicon-girl:before {
-  content: "\1F467"; }
+  content: "\E005"; }
 
 .glyphicon-car:before {
   content: "\E006"; }
@@ -89,7 +89,7 @@ a[class*="glyphicon-"] {
   content: "\2709"; }
 
 .glyphicon-camera:before {
-  content: "\1F4F7"; }
+  content: "\E011"; }
 
 .glyphicon-heart:before {
   content: "\E013"; }
@@ -98,7 +98,7 @@ a[class*="glyphicon-"] {
   content: "\E014"; }
 
 .glyphicon-train:before {
-  content: "\1F686"; }
+  content: "\E015"; }
 
 .glyphicon-print:before {
   content: "\E016"; }
@@ -149,7 +149,7 @@ a[class*="glyphicon-"] {
   content: "\270F"; }
 
 .glyphicon-bus:before {
-  content: "\1F68C"; }
+  content: "\E032"; }
 
 .glyphicon-wifi_alt:before {
   content: "\E033"; }
@@ -161,7 +161,7 @@ a[class*="glyphicon-"] {
   content: "\E035"; }
 
 .glyphicon-woman:before {
-  content: "\1F469"; }
+  content: "\E036"; }
 
 .glyphicon-file:before {
   content: "\E037"; }
@@ -191,7 +191,7 @@ a[class*="glyphicon-"] {
   content: "\E045"; }
 
 .glyphicon-calendar:before {
-  content: "\1F4C5"; }
+  content: "\E046"; }
 
 .glyphicon-router:before {
   content: "\E047"; }
@@ -242,7 +242,7 @@ a[class*="glyphicon-"] {
   content: "\E062"; }
 
 .glyphicon-paperclip:before {
-  content: "\1F4CE"; }
+  content: "\E063"; }
 
 .glyphicon-power:before {
   content: "\E064"; }
@@ -272,7 +272,7 @@ a[class*="glyphicon-"] {
   content: "\E072"; }
 
 .glyphicon-bookmark:before {
-  content: "\1F516"; }
+  content: "\E073"; }
 
 .glyphicon-wifi:before {
   content: "\E074"; }
@@ -845,7 +845,7 @@ a[class*="glyphicon-"] {
   content: "\E263"; }
 
 .glyphicon-bank:before {
-  content: "\1F3E6"; }
+  content: "\E264"; }
 
 .glyphicon-vcard:before {
   content: "\E265"; }
@@ -923,10 +923,10 @@ a[class*="glyphicon-"] {
   content: "\E289"; }
 
 .glyphicon-bomb:before {
-  content: "\1F4A3"; }
+  content: "\E290"; }
 
 .glyphicon-skull:before {
-  content: "\1F480"; }
+  content: "\E291"; }
 
 .glyphicon-celebration:before {
   content: "\E292"; }
@@ -950,13 +950,13 @@ a[class*="glyphicon-"] {
   content: "\E298"; }
 
 .glyphicon-hospital:before {
-  content: "\1F3E5"; }
+  content: "\E299"; }
 
 .glyphicon-hospital_h:before {
   content: "\E300"; }
 
 .glyphicon-microphone:before {
-  content: "\1F3A4"; }
+  content: "\E301"; }
 
 .glyphicon-webcam:before {
   content: "\E302"; }
@@ -974,7 +974,7 @@ a[class*="glyphicon-"] {
   content: "\E306"; }
 
 .glyphicon-bicycle:before {
-  content: "\1F6B2"; }
+  content: "\E307"; }
 
 .glyphicon-life_preserver:before {
   content: "\E308"; }
@@ -1001,7 +1001,7 @@ a[class*="glyphicon-"] {
   content: "\E315"; }
 
 .glyphicon-bowling:before {
-  content: "\1F3B3"; }
+  content: "\E316"; }
 
 .glyphicon-tree_conifer:before {
   content: "\E317"; }
@@ -1055,13 +1055,13 @@ a[class*="glyphicon-"] {
   content: "\E333"; }
 
 .glyphicon-bell:before {
-  content: "\1F514"; }
+  content: "\E334"; }
 
 .glyphicon-candle:before {
   content: "\E335"; }
 
 .glyphicon-pushpin:before {
-  content: "\1F4CC"; }
+  content: "\E336"; }
 
 .glyphicon-iphone_shake:before {
   content: "\E337"; }
@@ -1070,16 +1070,16 @@ a[class*="glyphicon-"] {
   content: "\E338"; }
 
 .glyphicon-turtle:before {
-  content: "\1F422"; }
+  content: "\E339"; }
 
 .glyphicon-rabbit:before {
-  content: "\1F407"; }
+  content: "\E340"; }
 
 .glyphicon-globe:before {
   content: "\E341"; }
 
 .glyphicon-briefcase:before {
-  content: "\1F4BC"; }
+  content: "\E342"; }
 
 .glyphicon-hdd:before {
   content: "\E343"; }
@@ -1136,10 +1136,10 @@ a[class*="glyphicon-"] {
   content: "\E360"; }
 
 .glyphicon-bug:before {
-  content: "\1F41B"; }
+  content: "\E361"; }
 
 .glyphicon-crown:before {
-  content: "\1F451"; }
+  content: "\E362"; }
 
 .glyphicon-smoking:before {
   content: "\E363"; }
@@ -1202,7 +1202,7 @@ a[class*="glyphicon-"] {
   content: "\E382"; }
 
 .glyphicon-dress:before {
-  content: "\1F457"; }
+  content: "\E383"; }
 
 .glyphicon-bathrobe:before {
   content: "\E384"; }
@@ -1289,7 +1289,7 @@ a[class*="glyphicon-"] {
   content: "\E411"; }
 
 .glyphicon-package:before {
-  content: "\1F4E6"; }
+  content: "\E412"; }
 
 .glyphicon-cloud_plus:before {
   content: "\E413"; }
@@ -1406,7 +1406,7 @@ a[class*="glyphicon-"] {
   content: "\E450"; }
 
 .glyphicon-factory:before {
-  content: "\1F3ED"; }
+  content: "\E451"; }
 
 .glyphicon-shop_window:before {
   content: "\E452"; }
